@@ -17,11 +17,15 @@ a {
   margin: 5px;
   padding-bottom: 15px;
   border-bottom: solid 1px gray;
-  clear: both;
+  clear:both;
+  float:left;
 }
+
+
 
 .image {
   float: left;
-  margin-right: 15px;
-  margin-bottom: 50px;
+  clear: left;
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
